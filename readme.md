@@ -15,3 +15,6 @@
 - composer install
 - создать файл .env из exemple.env
 - запустить сайт
+
+## Авторы
+- Ветка Hleb
